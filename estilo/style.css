@@ -18,3 +18,8 @@ h2
    color: orangered;
 
 }
+#cabecera{
+    text-align: left;
+    color: black;
+    background-color: red;
+}
